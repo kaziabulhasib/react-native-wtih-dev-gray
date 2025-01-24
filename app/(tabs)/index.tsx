@@ -29,9 +29,10 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   text: {
-    color: "black",
+    color: "white",
     fontSize: 42,
     fontWeight: "bold",
     textAlign: "center",
+    backgroundColor: "rgba(0,0,0,0.5)",
   },
 });
