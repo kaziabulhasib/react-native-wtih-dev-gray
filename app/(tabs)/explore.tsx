@@ -4,7 +4,7 @@ import React from "react";
 const app = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hasib</Text>
+      <Text style={styles.text}>Navigation Page</Text>
     </View>
   );
 };
